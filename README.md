@@ -26,4 +26,4 @@ Replace Your_name and add this line to web.html file and you are good to go.
 
 ## Copyright
 
-Copyright (c) 2018 Hacktoberfest 2018 Signup. See [LICENSE](LICENSE) for details.
+Copyright 2018 Hacktoberfest 2018 Signup. See [LICENSE](LICENSE) for details.
